@@ -1,5 +1,9 @@
 new_planet = ""
-planets = []
+lista_planeta = []
 
-while new_planet != "done":
-    if new_planet.append(planets)
+while new_planet != "listo":
+    if new_planet:
+        lista_planeta.append(new_planet)
+    new_planet = input(""" ingresar planeta, al finalizar ingresar "listo" : """)
+print(lista_planeta)
+
